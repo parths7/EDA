@@ -1,2 +1,2 @@
 # EDA
-Exploratory Data Analysis
+Exploratory Data Analysis of Black Friday Sales Data.
