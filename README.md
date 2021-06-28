@@ -1,2 +1,3 @@
 # EDA
-Exploratory Data Analysis of Black Friday Sales Data using **matlotlib** and **seaborn**.
+BlackFriday : https://www.kaggle.com/sdolezel/black-friday
+Marketing_Analysis : https://www.kaggle.com/jackdaoud/marketing-data
