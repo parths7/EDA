@@ -19,8 +19,7 @@ https://www.kaggle.com/jackdaoud/marketing-data
 # Latest Covid-19 India Statewise Data
 **About**
 
-This dataset contains latest Covid-19 India state-wise data as on August 10, 2021. This dataset can be used to analyze covid condition in India.
-This dataset is great for Exploratory Data Analysis
+The dataset used contains latest Covid-19 India state-wise data as on August 10, 2021
 
 **Attribute Information**
 
